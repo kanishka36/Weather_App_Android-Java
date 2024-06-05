@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="time">- -</string>
+    <string name="address">Address: Unknown</string>
+    <string name="latLon">Latitude, Longitude</string>
+    <string name="humid">Humidity</string>
+    <string name="description">-----</string>
+    <string name="temp">0°C</string>
+    <string name="want_to_search_for_new_city">Want To Search For New City</string>
+</resources>
